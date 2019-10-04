@@ -1,0 +1,7 @@
+Form,Color,Size,Class
+circle,red,small,+
+circle,red,big,+
+triangle,yellow,small,-
+circle,yellow,small,-
+triangle,red,big,-
+circle,yellow,big,-
